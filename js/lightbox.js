@@ -9,6 +9,7 @@
             minWidth: 50,
             minHeight: 50
         };
+        
         //合并参数
         $.extend(this.setting, cfg || {});
 
